@@ -5,7 +5,6 @@
 - :computer: Developing APIs at [Sensedia](https://www.sensedia.com).
 - :books: Currently improving my knowledge in Docker and Nodejs.
 - :headphones: I like to share knowledge through my podcast, [AdamCast](https://adamcast.tech/).
-- 💬 Ask me about Java, Python, Git and APIs.
 
 ## Stats
 
